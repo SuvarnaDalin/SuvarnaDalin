@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SuvarnaDalin
+- ✨ I am a Data Analyst @Visulon Inc.
 - 👀 I’m interested in Data Science - Maching Learning & Deep Learning
 - 🌱 I’m currently learning Deep Science
 
