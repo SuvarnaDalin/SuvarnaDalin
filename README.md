@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @SuvarnaDalin
-- ✨ I am a Data Analyst @Visulon Inc.
-- 👀 I’m interested in Data Science - Maching Learning & Deep Learning
-- 🌱 I’m currently learning Deep Science
 
+#### About Me
+- 👋 Hi, I’m Suvarna Dalin
+- ✨ I am a Data Analyst @Visulon Inc.
+- 👀 I’m interested in Data Science - Maching Learning & Deep Learning. Enjoys coding in Python and Visualizing data in PowerBI and Tableau.
+- 🌱 I’m currently learning Deep Science.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge=GitHub&logo=GitHub&logoColor=black)
+![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge=LinkedIn&logo=Linkedin&logoColor=white&url=<https://www.linkedin.com/in/suvarnaputhiyoppil/>)
+![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge=Gmail&logo=Gmail&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge=Portfolio&logo=Portfolio&logoColor=black)
+
+#### My Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuvarnaDalin&theme=darkhub&column=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### My Strengths
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarnaDalin&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My Github Stats
+![Suvarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuvarnaDalin&show_icons=true&theme=radical&hide_title=True)
 
 <!---
 SuvarnaDalin/SuvarnaDalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
