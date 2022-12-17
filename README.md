@@ -2,7 +2,7 @@
 #### About Me
 - 👋 Hi, I’m Suvarna
 - ✨ I am a Data Analyst @Visulon Inc.
-- 👀 I’m interested in Data Science - Maching Learning & Deep Learning. Enjoys coding in Python and Visualizing data in PowerBI and Tableau.
+- 👀 I’m interested in Data Science - Maching Learning & Deep Learning. Enjoys coding in Python, SQL and Visualizing data in PowerBI and Tableau.
 - 🌱 I’m currently learning Deep Science.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
