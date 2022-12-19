@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning Deep Science.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge=GitHub&logo=GitHub&logoColor=black)
-![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge=LinkedIn&logo=Linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge=Gmail&logo=Gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge=Portfolio&logo=Portfolio&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge=GitHub&logo=GitHub&logoColor=black)](https://github.com/SuvarnaDalin)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge=LinkedIn&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suvarnaputhiyoppil/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge=Gmail&logo=Gmail&logoColor=white)](mailto:suvarna.p.87@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge=Portfolio&logo=Portfolio&logoColor=black)](https://www.suvarnapanalyticsportfolio.ml/)
 
 
 #### My Github Trophies
