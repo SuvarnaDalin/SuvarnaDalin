@@ -1,9 +1,10 @@
 
 #### About Me
 - 👋 Hi, I’m Suvarna
-- ✨ I am a Data Analyst @Visulon Inc.
-- 👀 I’m interested in Data Science - Maching Learning & Deep Learning. Enjoys coding in Python, SQL and Visualizing data in PowerBI and Tableau.
-- 🌱 I’m currently learning Deep Science.
+- ✨ I am an Enterprise Data Analyst at OfficeMax NZ Ltd.
+- ✨ Previously I worked as a Sr. Data Analyst and AI ML programmer @Visulon Inc.
+- 👀 I’m interested in Data Science - Maching Learning & Deep Learning. Enjoys coding in Python, SQL, Snowflake SQL and Visualizing data in PowerBI, Sisense and Tableau.
+- 🌱 I’m currently learning Deep Science & Data Modelling Techniques.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge=GitHub&logo=GitHub&logoColor=black)](https://github.com/SuvarnaDalin)
