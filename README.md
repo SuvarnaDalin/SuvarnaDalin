@@ -2,7 +2,7 @@
 #### About Me
 - 👋 Hi, I’m Suvarna
 - ✨ I am a Sanctions Analytics Analyst in the Financial Crime Compliance team @ ASB Bank.
-- ✨ Previously I was an Enterprise Data Analyst @ OfficeMax NZ Ltd.
+- ✨ Previously, I was an Enterprise Data Analyst @ OfficeMax NZ Ltd.
 - ✨ Prior to that, I worked as a Sr. Data Analyst and AI ML programmer @ Visulon Inc.
 - 👀 I am passionate about everything related to Data; from data extraction, preprocessing, modelling, analysis, visualization.. to Data Science - Maching Learning & Deep Learning. Enjoys coding in Python, SQL, R and Visualizing data in PowerBI, Tableau and Sisense.
 - 🌱 I’m currently learning Data Modelling Techniques, Financial data screening & Deep Science.
